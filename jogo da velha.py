@@ -38,3 +38,4 @@ def jogar():
         jogador_atual = 'O' if jogador_atual == 'X' else 'X'
 
 jogar()
+
